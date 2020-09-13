@@ -2,8 +2,15 @@ package edu.rseymour.advancedjava.datamodels;
 
 import edu.rseymour.advancedjava.interfaces.Body;
 
+/**
+ * Class to create a Stratocaster-style electric guitar body.
+ */
+
 public class StratocasterBody implements Body {
 
+    /**
+     * No-arg constructor.
+     */
     public StratocasterBody() {}
 
     @Override

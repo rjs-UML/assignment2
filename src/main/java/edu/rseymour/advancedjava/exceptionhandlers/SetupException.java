@@ -1,5 +1,7 @@
 package edu.rseymour.advancedjava.exceptionhandlers;
 
+import edu.rseymour.advancedjava.interfaces.SetOfStrings;
+
 /**
  * Exception that is thrown when the guitar has been
  * strummed 10,000 times. You must complete a

@@ -2,8 +2,15 @@ package edu.rseymour.advancedjava.datamodels;
 
 import edu.rseymour.advancedjava.interfaces.Neck;
 
+/**
+ * Class to create a Stratocaster-style electric guitar neck.
+ */
+
 public class StratocasterNeck implements Neck {
 
+    /**
+     * No-arg constructor.
+     */
     public StratocasterNeck() {}
 
     @Override
